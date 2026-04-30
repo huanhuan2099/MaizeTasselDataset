@@ -46,14 +46,24 @@ All images were captured under natural lighting conditions with varying:
 
 ---
 
-## 📦 Annotation Format
+## 📦 Annotation Format(YOLO)
 
-We provide annotations in **COCO format**.
+Each label file corresponds to an image and follows YOLO format:
+<class_id> <x_center> <y_center> <width> <height>
 
-Each image is labeled with bounding boxes for maize tassels:
+All coordinates are normalized to [0, 1].
 
-```json
-{
-  "bbox": [x, y, width, height],
-  "category_id": 1
-}
+Only one class is defined:
+0: tassel
+
+---
+
+## 📜 License
+
+This dataset is released for academic research only. Commercial use is not allowed without permission.
+
+---
+
+## 📚 Citation
+
+If you use this dataset, please cite:
