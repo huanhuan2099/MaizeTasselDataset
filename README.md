@@ -49,7 +49,7 @@ All images were captured under natural lighting conditions with varying:
 ## 📦 Annotation Format(YOLO)
 
 Each label file corresponds to an image and follows YOLO format:
-<class_id> <x_center> <y_center> <width> <height>
+<class_id> <x_center> <y_center> <_width> <_height>
 
 All coordinates are normalized to [0, 1].
 
