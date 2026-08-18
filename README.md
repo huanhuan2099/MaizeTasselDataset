@@ -14,17 +14,15 @@ The dataset is collected from real maize fields under diverse conditions, includ
 
 - Total images: **3,794**
 - Image resolution: **1024 × 1024**
-- Total annotations: **75,273 maize tassels**
-- Average objects per image: **19.8**
-- Maximum objects per image: **130**
+- Total annotations: **75,495 maize tassels**
+- Average objects per image: **19.9**
+- Maximum objects per image: **135**
 
 ---
 
 ## 🌾 Data Collection
 
 The dataset was collected using a **DJI Mini 4 Pro UAV** in agricultural fields located in:
-
-- Wuhan, Hubei Province, China  
 - Shangqiu, Henan Province, China  
 
 All images were captured under natural lighting conditions with varying:
