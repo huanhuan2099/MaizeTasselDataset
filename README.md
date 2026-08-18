@@ -1,5 +1,5 @@
 # MaizeTassel-Dataset
-MaizeTassel: A UAV-based dataset for maize tassel detection in complex field environments. We will provide the download link after the paper is accepted.
+MaizeTassel: A UAV-based dataset for maize tassel detection in complex field environments. We will provide the download link and code after the paper is accepted.
 
 ## Overview
 
